@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: booking-api
+
+  datasource:
+    url: jdbc:postgresql://localhost:5434/tickcore_booking
+    username: tickcore
+    password: sapassword
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: validate
+    open-in-view: false
