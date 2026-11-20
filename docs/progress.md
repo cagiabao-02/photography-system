@@ -9,8 +9,8 @@
 
 ## Trạng thái hiện tại
 - **Bài đã học:** Bài 0 - Chuẩn bị môi trường & chạy ứng dụng kết nối PostgreSQL
-- **Bài đang học:** Chờ bắt đầu Bài 1
-- **Bài tiếp theo:** Bài 1 - Nền tảng Spring (IoC, DI, Bean, `application.yaml`, Profiles, `@ConfigurationProperties`)
+- **Bài đang học:** Bài 1 - Nền tảng Spring (IoC, DI, Bean, `application.yaml`, Profiles, `@ConfigurationProperties`)
+- **Bài tiếp theo:** Bài 2 - REST API đầu tiên
 
 ---
 
@@ -19,7 +19,7 @@
 | Bài | Chủ đề | Yêu cầu liên quan | Trạng thái | Ghi chú |
 |---|---|---|---|---|
 | 0 | Chuẩn bị | NFR-07 | Hoàn thành | Đã chạy app kết nối PostgreSQL Docker trên port `5434` (tránh đụng `5433` local) |
-| 1 | Nền tảng Spring | BR-03, BR-05 | Sắp học | |
+| 1 | Nền tảng Spring | BR-03, BR-05 | Đang học | |
 | 2 | REST API đầu tiên | NFR-04, NFR-12 | Chưa học | |
 | 3 | Validation và xử lý lỗi | NFR-02, NFR-12 | Chưa học | |
 | 4 | Spring Data JPA | Mục 9 requirements | Chưa học | |

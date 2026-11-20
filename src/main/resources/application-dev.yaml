@@ -1,0 +1,9 @@
+spring:
+    datasource:
+        url: jdbc:postgresql://localhost:5434/tickcore_booking
+        username: tickcore
+        password: sapassword
+        driver-class-name: org.postgresql.Driver
+
+    jpa:
+        show-sql: true
